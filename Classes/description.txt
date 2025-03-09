@@ -1,0 +1,28 @@
+Goat, you are under arrest! For stealing my donut...
+
+Rejoyce, citizens of Goatville! You no longer have to worry about goat criminality thanks to our new police forces! (Also we increased taxes in order to pay the donuts expenses...)
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Police Forces: Policemen are watching you.
+
+[b]CHARACTERISTICS[/b]
+- Policemen have the exact same behaviour as those on the Payday map:
+-- If a policement see you break, attack or lick something, he will try to arrest you.
+-- When arrested, you are forced to stay ragdolled until the policement release you.
+-- After arresting you, if playing on the Payday map policement will take you to prison, else they will punch you away.
+
+[b]EASTER EGGS[/b]
+- [spoiler]You can trick policemen into arresting a NPC by walking over that NPC.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Sometimes policemen can be found running forever without moving. Kick them to fix.
+- Sometimes policemen won't arrest you even if you did something wrong rght in front of them.
+- In some rare case, a policement can arrest you and never release you. If that happen, respawn to fix.
+- After a very long play session, policemen bodies may start to be glitchy. Restart map or change map to fix.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]The idea behind this mod is quite obvious :p It was added to h=the request thread soon after the Payday DLC came out.
+After looking at the Policement code from the DLC, I thought it would take some time to make them compatible with NPCs and goats from other maps... But luckily I was wrong XD All I had to do was to spawn the policement and give them their default AI, then they were able to act normally (the same way they act on the Payday map), which is really cool ^^
+[/quote]
